@@ -1,4 +1,4 @@
-## Hello <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="5%" alt="Click to see the source" align="center">
+## Hello <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="5%" alt="flag" align="center">
 
 I'm Thomas. Experienced DEV from Argentina with a proven track record of working in the computer software industry. Expert in designing and building complex software systems. Systems analyst graduate, problem-solving oriented, versatile and productive. Passionate about new technologies and teamwork. 
 
