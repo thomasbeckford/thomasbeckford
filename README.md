@@ -1,4 +1,4 @@
-## Hello <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="5%" alt="flag" align="center">
+## Hi, I'm Thomas <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="5%" alt="flag" align="center">
 
 Im a Senior Frontend Developer. Main stack <a href="https://www.typescriptlang.org/">TypeScript</a>, <a href="https://react.dev/">ReactJS</a> and <a href="https://nextjs.org/">NextJS</a>
 
